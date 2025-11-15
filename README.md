@@ -2,13 +2,13 @@
 
 ---
 
-## 🎯 About  
+##  About  
 This repository contains all **7 laboratory experiments** for the course *BIG DATA TECHNOLOGY (AI19741)*, as per the R2019 syllabus.  
 It covers installation and usage of Hadoop ecosystem components (HDFS, MapReduce, Pig, Hive, Sqoop) and hands-on tasks to embed big data processing skills.
 
 ---
 
-## 📋 List of Experiments  
+##  List of Experiments  
 1. **Installation of Hadoop**  
 2. **HDFS File-Management Tasks**  
    - Upload / Download a file in HDFS  
@@ -25,4 +25,5 @@ It covers installation and usage of Hadoop ecosystem components (HDFS, MapReduce
 7. **Sqoop** – Export data from Hadoop using Sqoop & import data into Hive  
 
 ---
+
 
